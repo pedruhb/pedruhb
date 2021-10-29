@@ -2,6 +2,7 @@
 
 ### Ferramentas
 <div style="display: inline_block">
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://qph.fs.quoracdn.net/main-qimg-0e18550bb7c9827e878e1b7711775c79" width="40" height="40"/> 
 <img src="https://www.php.net/images/logos/new-php-logo.svg" width="40" height="40"/>
@@ -12,13 +13,11 @@
 <img src="https://w7.pngwing.com/pngs/1013/808/png-transparent-windows-server-2012-r2-windows-server-2008-client-access-license-microsoft-blue-angle-text-thumbnail.png" width="40" height="40"/>
 <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" width="40" height="40"/>
 </div>
-##
 
 ### Estou aprendendo
 <div style="display: inline_block">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> 
 </div>
-##
 
 <br>
 
@@ -28,4 +27,3 @@
 <a href="https://github.com/luiz1n/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedruhb&theme=dracula&count_private=true" />
 </a>
-
